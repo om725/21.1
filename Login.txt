@@ -1,2 +1,2 @@
 Login page code
-D1 Defect fix
+D1 fix
